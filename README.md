@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/raviyatechnical](https://github.com/raviyatechnical)
 
 - 📝 I regularly write articles on [https://medium.com/raviya-technical](https://medium.com/raviya-technical)
+- Donate [https://patreon.com/raviyatechnical](https://patreon.com/raviyatechnical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
