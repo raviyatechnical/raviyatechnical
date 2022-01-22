@@ -10,6 +10,9 @@
 - 📝 I regularly write articles on [https://medium.com/raviya-technical](https://medium.com/raviya-technical)
 - Donate [https://patreon.com/raviyatechnical](https://patreon.com/raviyatechnical)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavraviya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/raviyatechnical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raviyatechnical" height="30" width="40" /></a>
