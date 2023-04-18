@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raviya Technical</h1>
 <h3 align="center">Full Stack Developer from India</h3>
-
+<div align="left">
 - 🔭 I’m currently working on [Flutter MoonLight](https://github.com/RajTechnologiesPvtLtd/flutter-moonlight)
 
 - 🌱 I’m currently learning **PHP, CodeIgniter ,Laravel & Flutter**
@@ -9,6 +9,10 @@
 
 - 📝 I regularly write articles on [https://medium.com/raviya-technical](https://medium.com/raviya-technical)
 - Donate [https://patreon.com/raviyatechnical](https://patreon.com/raviyatechnical)
+  
+<img align="right" src="https://api.daily.dev/devcards/179b5b0009a4429889f5b1fe3b8d6bc3.png?r=a6d" width="400" alt="Raviya Technical's Dev Card"/>
+
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavraviya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
